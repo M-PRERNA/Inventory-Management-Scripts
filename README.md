@@ -1,2 +1,2 @@
 # Inventory-Management-Scripts
-Inventory management macros
+Database Administration Software
